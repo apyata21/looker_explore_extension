@@ -6,8 +6,9 @@ project_name: "looker_explore_extension"
 # local_dependency: {
 #   project: "name_of_other_project"
 # }
-application: helloworld {
-  label: "helloworld React/JavaScript extension"
+application: looker-explore-assistant {
+
+  label: "looker-explore-assistant React/JavaScript extension"
   url: "https://localhost:8080/bundle.js"
   entitlements: {
     core_api_methods: ["me"]
