@@ -1,4 +1,4 @@
-project_name: "looker_explore_extension"
+project_name: "testlooker"
 
 # # Use local_dependency: To enable referencing of another project
 # # on this instance with include: statements
